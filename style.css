@@ -1,11 +1,6 @@
-/* Importieren von Google Fonts Schriftart */
-
-@import url('https://fonts.googleapis.com/css2? family=Festlich&display=swap');
-@import url('http://hintergrundbild.org/wallpaper/full/0/4/2/76914-farbverlauf-hintergrundbilder-2560x2048-samsung-galaxy.jpg');
-
 /* Hintergrund Überschrift */
 
-@import url('https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+@import url('http://hintergrundbild.org/wallpaper/full/f/3/c/23784-new-orange-wallpapers-2560x1440.jpg');
 
 html,
 
@@ -13,10 +8,18 @@ html,
 
 body {
     background-color: lightcyan;
- background-image: url(https://images.pexels.com/photos/3284167/pexels-photo-3284167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
- background-size: cover;
- background-repeat: no-repeat;
- color: white;
+    background-image: url(http://hintergrundbild.org/wallpaper/full/f/3/c/23784-new-orange-wallpapers-2560x1440.jpg);
+    margin: 0;
+    font-family: "Roboto", "Verdana", "Calibri", sans-serif;
+}
+
+div {
+    background: white;
+    width: 50%;
+    margin: 0px auto;
+    padding: 1,5% 1%;
+    box-shadow: 2px 2px;
+
 }
 
 /* Hauptüberschrift (fett, groß, unterstrichen) */
@@ -26,6 +29,7 @@ body {
     text-align: center;
     text-decoration: underline;
     font-size: xx-large;
+    margin-top: 0;
 }
 
 h2 {

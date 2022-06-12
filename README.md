@@ -1,4 +1,7 @@
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/rafael0014?label=rafael0014%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social)
+![](https://avatars.githubusercontent.com/u/99610678?s=200&v=4)
+ 
+ 
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9DtN8kXsa10chTbpoTIZvQ?style=social)  ![GitHub followers](https://img.shields.io/github/followers/ArcticPenguin07?label=ArcticPenguin07%20follower&style=social)  ![GitHub followers](https://img.shields.io/github/followers/RagrFlpy?label=RagrFlpy%20follower&style=social) ![platforms: Chrome, Microsoft Edge, Firefox, ...](https://img.shields.io/badge/platforms-Chrome%2C%20Microsoft%20Edge%2C%20Firefox%2C%20...-green)
 
 
 # 🌐Website1
@@ -12,10 +15,6 @@ Sie können uns unterstützen, indem Sie Diskussionen starten oder das Repositor
 
  ### 🙏Vielen lieben Dank!
 
-Wir werden uns vielleicht eine Domän holen, die folgernder Weise sein könnte:
-
-https://www.rafael-felix.de
-
  ### Die Funktion am Anfang der Website
 
 ``function hello(); {
@@ -27,7 +26,7 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ### 👨‍💻Contributors
 
-- [@rafael0014](https://github.com/rafael0014)
+- [@ArcticPenguin07](https://github.com/ArcticPenguin07)
 - [@RagrFlpy](https://github.com/RagrFlpy)
 
 ### Erste Vorschau/erster Einblick
@@ -36,10 +35,5 @@ Diese JavaScript-Funktion wird Ihnen am Anfang angezeigt. Also nur der Inhalt, d
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/91688044/152540497-77fc2e54-3129-4df0-b1fb-5e617e8922ea.png)
 
-### Schriftart
+(Stand: 04.02.2022)
 
-- [Festlich](https://fonts.google.com/?query=Festlich)
-- zu HTML-Datei hinzufügen: 
-```<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2? family=Festlich&display=swap" rel="stylesheet">
